@@ -1,0 +1,572 @@
+{
+  "1": {
+    "name_en": "Al-Fātiḥah",
+    "name_ar": "الفَاتِحة",
+    "count": 7
+  },
+  "2": {
+    "name_en": "Al-Baqarah",
+    "name_ar": "البَقَرَة",
+    "count": 286
+  },
+  "3": {
+    "name_en": "Āl-‘Imrān",
+    "name_ar": "آل عِمران",
+    "count": 200
+  },
+  "4": {
+    "name_en": "An-Nisā’",
+    "name_ar": "النِّسَاء",
+    "count": 176
+  },
+  "5": {
+    "name_en": "Al-Mā’idah",
+    "name_ar": "المَائدة",
+    "count": 120
+  },
+  "6": {
+    "name_en": "Al-An‘ām",
+    "name_ar": "الأنعَام",
+    "count": 165
+  },
+  "7": {
+    "name_en": "Al-A‘rāf",
+    "name_ar": "الأعرَاف",
+    "count": 206
+  },
+  "8": {
+    "name_en": "Al-Anfāl",
+    "name_ar": "الأنفَال",
+    "count": 75
+  },
+  "9": {
+    "name_en": "At-Taubah",
+    "name_ar": "التوبَة",
+    "count": 129
+  },
+  "10": {
+    "name_en": "Yūnus",
+    "name_ar": "يُونس",
+    "count": 109
+  },
+  "11": {
+    "name_en": "Hūd",
+    "name_ar": "هُود",
+    "count": 123
+  },
+  "12": {
+    "name_en": "Yūsuf",
+    "name_ar": "يُوسُف",
+    "count": 111
+  },
+  "13": {
+    "name_en": "Ar-Ra‘d",
+    "name_ar": "الرَّعد",
+    "count": 43
+  },
+  "14": {
+    "name_en": "Ibrāhīm",
+    "name_ar": "إبراهِيم",
+    "count": 52
+  },
+  "15": {
+    "name_en": "Al-Ḥijr",
+    "name_ar": "الحِجر",
+    "count": 99
+  },
+  "16": {
+    "name_en": "An-Naḥl",
+    "name_ar": "النَّحل",
+    "count": 128
+  },
+  "17": {
+    "name_en": "Al-Isrā’",
+    "name_ar": "الإسرَاء",
+    "count": 111
+  },
+  "18": {
+    "name_en": "Al-Kahf",
+    "name_ar": "الكَهف",
+    "count": 110
+  },
+  "19": {
+    "name_en": "Maryam",
+    "name_ar": "مَريَم",
+    "count": 98
+  },
+  "20": {
+    "name_en": "Ṭā-Hā",
+    "name_ar": "طه",
+    "count": 135
+  },
+  "21": {
+    "name_en": "Al-Anbiyā’",
+    "name_ar": "الأنبيَاء",
+    "count": 112
+  },
+  "22": {
+    "name_en": "Al-Ḥajj",
+    "name_ar": "الحج",
+    "count": 78
+  },
+  "23": {
+    "name_en": "Al-Mu’minūn",
+    "name_ar": "المؤمنُون",
+    "count": 118
+  },
+  "24": {
+    "name_en": "An-Nūr",
+    "name_ar": "النور",
+    "count": 64
+  },
+  "25": {
+    "name_en": "Al-Furqān",
+    "name_ar": "الفُرقَان",
+    "count": 77
+  },
+  "26": {
+    "name_en": "Ash-Shu‘arā’",
+    "name_ar": "الشعراء",
+    "count": 227
+  },
+  "27": {
+    "name_en": "An-Naml",
+    "name_ar": "النَّمل",
+    "count": 93
+  },
+  "28": {
+    "name_en": "Al-Qaṣaṣ",
+    "name_ar": "القَصَص",
+    "count": 88
+  },
+  "29": {
+    "name_en": "Al-‘Ankabūt",
+    "name_ar": "العَنكبُوت",
+    "count": 69
+  },
+  "30": {
+    "name_en": "Ar-Rūm",
+    "name_ar": "الرُّوم",
+    "count": 60
+  },
+  "31": {
+    "name_en": "Luqmān",
+    "name_ar": "لُقمَان",
+    "count": 34
+  },
+  "32": {
+    "name_en": "As-Sajdah",
+    "name_ar": "السَّجدة",
+    "count": 30
+  },
+  "33": {
+    "name_en": "Al-Aḥzāb",
+    "name_ar": "الأحزَاب",
+    "count": 73
+  },
+  "34": {
+    "name_en": "Saba’",
+    "name_ar": "سَبإ",
+    "count": 54
+  },
+  "35": {
+    "name_en": "Fāṭir",
+    "name_ar": "فَاطِر",
+    "count": 45
+  },
+  "36": {
+    "name_en": "Yā-Sīn",
+    "name_ar": "يسٓ",
+    "count": 83
+  },
+  "37": {
+    "name_en": "Aṣ-Ṣāffāt",
+    "name_ar": "الصَّافَات",
+    "count": 182
+  },
+  "38": {
+    "name_en": "Ṣād",
+    "name_ar": "صٓ",
+    "count": 88
+  },
+  "39": {
+    "name_en": "Az-Zumar",
+    "name_ar": "الزُّمَر",
+    "count": 75
+  },
+  "40": {
+    "name_en": "Ghāfir",
+    "name_ar": "غَافِر",
+    "count": 85
+  },
+  "41": {
+    "name_en": "Fuṣṣilat",
+    "name_ar": "فُصِّلَت",
+    "count": 54
+  },
+  "42": {
+    "name_en": "Ash-Shūra",
+    "name_ar": "الشُّوري",
+    "count": 53
+  },
+  "43": {
+    "name_en": "Az-Zukhruf",
+    "name_ar": "الزُّخرُف",
+    "count": 89
+  },
+  "44": {
+    "name_en": "Ad-Dukhān",
+    "name_ar": "الدُّخان",
+    "count": 59
+  },
+  "45": {
+    "name_en": "Al-Jāthiyah",
+    "name_ar": "الجاثِية",
+    "count": 37
+  },
+  "46": {
+    "name_en": "Al-Aḥqāf",
+    "name_ar": "الأحقَاف",
+    "count": 35
+  },
+  "47": {
+    "name_en": "Muḥammad",
+    "name_ar": "مُحمد",
+    "count": 38
+  },
+  "48": {
+    "name_en": "Al-Fatḥ",
+    "name_ar": "الفَتح",
+    "count": 29
+  },
+  "49": {
+    "name_en": "Al-Ḥujurāt",
+    "name_ar": "الحُجُرَات",
+    "count": 18
+  },
+  "50": {
+    "name_en": "Qāf",
+    "name_ar": "قٓ",
+    "count": 45
+  },
+  "51": {
+    "name_en": "Adh-Dhāriyāt",
+    "name_ar": "الذَّاريَات",
+    "count": 60
+  },
+  "52": {
+    "name_en": "Aṭ-Ṭūr",
+    "name_ar": "الطُّور",
+    "count": 49
+  },
+  "53": {
+    "name_en": "An-Najm",
+    "name_ar": "النَّجم",
+    "count": 62
+  },
+  "54": {
+    "name_en": "Al-Qamar",
+    "name_ar": "القَمَر",
+    "count": 55
+  },
+  "55": {
+    "name_en": "Ar-Raḥmān",
+    "name_ar": "الرَّحمٰن",
+    "count": 78
+  },
+  "56": {
+    "name_en": "Al-Wāqi‘ah",
+    "name_ar": "الوَاقِعة",
+    "count": 96
+  },
+  "57": {
+    "name_en": "Al-Ḥadīd",
+    "name_ar": "الحدِيد",
+    "count": 29
+  },
+  "58": {
+    "name_en": "Al-Mujādilah",
+    "name_ar": "المُجَادلة",
+    "count": 22
+  },
+  "59": {
+    "name_en": "Al-Ḥashr",
+    "name_ar": "الحَشر",
+    "count": 24
+  },
+  "60": {
+    "name_en": "Al-Mumtaḥanah",
+    "name_ar": "المُمتَحنَة",
+    "count": 13
+  },
+  "61": {
+    "name_en": "Aṣ-Ṣaff",
+    "name_ar": "الصَّف",
+    "count": 14
+  },
+  "62": {
+    "name_en": "Al-Jumu‘ah",
+    "name_ar": "الجُمعَة",
+    "count": 11
+  },
+  "63": {
+    "name_en": "Al-Munāfiqūn",
+    "name_ar": "المُنَافِقُونَ",
+    "count": 11
+  },
+  "64": {
+    "name_en": "At-Taghābun",
+    "name_ar": "التغَابُن",
+    "count": 18
+  },
+  "65": {
+    "name_en": "Aṭ-Ṭalāq",
+    "name_ar": "الطَّلَاق",
+    "count": 12
+  },
+  "66": {
+    "name_en": "At-Taḥrīm",
+    "name_ar": "التَّحرِيم",
+    "count": 12
+  },
+  "67": {
+    "name_en": "Al-Mulk",
+    "name_ar": "المُلك",
+    "count": 30
+  },
+  "68": {
+    "name_en": "Al-Qalam",
+    "name_ar": "القَلَم",
+    "count": 52
+  },
+  "69": {
+    "name_en": "Al-Ḥāqqah",
+    "name_ar": "الحَاقة",
+    "count": 52
+  },
+  "70": {
+    "name_en": "Al-Ma‘ārij",
+    "name_ar": "المَعَارج",
+    "count": 44
+  },
+  "71": {
+    "name_en": "Nūḥ",
+    "name_ar": "نُوح",
+    "count": 28
+  },
+  "72": {
+    "name_en": "Al-Jinn",
+    "name_ar": "الجِن",
+    "count": 28
+  },
+  "73": {
+    "name_en": "Al-Muzzammil",
+    "name_ar": "المُزمل",
+    "count": 20
+  },
+  "74": {
+    "name_en": "Al-Muddaththir",
+    "name_ar": "المُدثر",
+    "count": 56
+  },
+  "75": {
+    "name_en": "Al-Qiyāmah",
+    "name_ar": "القِيَامة",
+    "count": 40
+  },
+  "76": {
+    "name_en": "Al-Insān",
+    "name_ar": "الإنسَان",
+    "count": 31
+  },
+  "77": {
+    "name_en": "Al-Mursalāt",
+    "name_ar": "المُرسَلات",
+    "count": 50
+  },
+  "78": {
+    "name_en": "An-Naba’",
+    "name_ar": "النَّبَإ",
+    "count": 40
+  },
+  "79": {
+    "name_en": "An-Nāzi‘āt",
+    "name_ar": "النَّازعَات",
+    "count": 46
+  },
+  "80": {
+    "name_en": "‘Abasa",
+    "name_ar": "عَبَسَ",
+    "count": 42
+  },
+  "81": {
+    "name_en": "At-Takwīr",
+    "name_ar": "التَّكوير",
+    "count": 29
+  },
+  "82": {
+    "name_en": "Al-Infiṭār",
+    "name_ar": "الانفِطَار",
+    "count": 19
+  },
+  "83": {
+    "name_en": "Al-Muṭaffifīn",
+    "name_ar": "المُطَففين",
+    "count": 36
+  },
+  "84": {
+    "name_en": "Al-Inshiqāq",
+    "name_ar": "الانشِقَاق",
+    "count": 25
+  },
+  "85": {
+    "name_en": "Al-Burūj",
+    "name_ar": "البُرُوج",
+    "count": 22
+  },
+  "86": {
+    "name_en": "Aṭ-Ṭāriq",
+    "name_ar": "الطَّارق",
+    "count": 17
+  },
+  "87": {
+    "name_en": "Al-A‘lā",
+    "name_ar": "الأعلى",
+    "count": 19
+  },
+  "88": {
+    "name_en": "Al-Ghāshiyah",
+    "name_ar": "الغَاشِية",
+    "count": 26
+  },
+  "89": {
+    "name_en": "Al-Fajr",
+    "name_ar": "الفَجر",
+    "count": 30
+  },
+  "90": {
+    "name_en": "Al-Balad",
+    "name_ar": "البَلَد",
+    "count": 20
+  },
+  "91": {
+    "name_en": "Ash-Shams",
+    "name_ar": "الشَّمس",
+    "count": 15
+  },
+  "92": {
+    "name_en": "Al-Lail",
+    "name_ar": "اللَّيل",
+    "count": 21
+  },
+  "93": {
+    "name_en": "Aḍ-Ḍuḥā",
+    "name_ar": "الضُّحى",
+    "count": 11
+  },
+  "94": {
+    "name_en": "Ash-Sharḥ",
+    "name_ar": "الشَّرح",
+    "count": 8
+  },
+  "95": {
+    "name_en": "At-Tīn",
+    "name_ar": "التِّين",
+    "count": 8
+  },
+  "96": {
+    "name_en": "Al-‘Alaq",
+    "name_ar": "العَلَق",
+    "count": 19
+  },
+  "97": {
+    "name_en": "Al-Qadr",
+    "name_ar": "القَدر",
+    "count": 5
+  },
+  "98": {
+    "name_en": "Al-Bayyinah",
+    "name_ar": "البَينَة",
+    "count": 8
+  },
+  "99": {
+    "name_en": "Az-Zalzalah",
+    "name_ar": "الزَّلزَلة",
+    "count": 8
+  },
+  "100": {
+    "name_en": "Al-‘Ādiyāt",
+    "name_ar": "العَاديَات",
+    "count": 11
+  },
+  "101": {
+    "name_en": "Al-Qāri‘ah",
+    "name_ar": "القَارعَة",
+    "count": 11
+  },
+  "102": {
+    "name_en": "At-Takāthur",
+    "name_ar": "التَّكاثُر",
+    "count": 8
+  },
+  "103": {
+    "name_en": "Al-‘Aṣr",
+    "name_ar": "العَصر",
+    "count": 3
+  },
+  "104": {
+    "name_en": "Al-Humazah",
+    "name_ar": "الهُمَزة",
+    "count": 9
+  },
+  "105": {
+    "name_en": "Al-Fīl",
+    "name_ar": "الفِيل",
+    "count": 5
+  },
+  "106": {
+    "name_en": "Quraish",
+    "name_ar": "قُرَيش",
+    "count": 4
+  },
+  "107": {
+    "name_en": "Al-Mā‘ūn",
+    "name_ar": "المَاعُون",
+    "count": 7
+  },
+  "108": {
+    "name_en": "Al-Kauthar",
+    "name_ar": "الكَوثر",
+    "count": 3
+  },
+  "109": {
+    "name_en": "Al-Kāfirūn",
+    "name_ar": "الكافِرون",
+    "count": 6
+  },
+  "110": {
+    "name_en": "An-Naṣr",
+    "name_ar": "النَّصر",
+    "count": 3
+  },
+  "111": {
+    "name_en": "Al-Masad",
+    "name_ar": "المَسَد",
+    "count": 5
+  },
+  "112": {
+    "name_en": "Al-Ikhlāṣ",
+    "name_ar": "الإخلَاص",
+    "count": 4
+  },
+  "113": {
+    "name_en": "Al-Falaq",
+    "name_ar": "الفَلَق",
+    "count": 5
+  },
+  "114": {
+    "name_en": "An-Nās",
+    "name_ar": "النَّاس",
+    "count": 6
+  }
+}
